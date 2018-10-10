@@ -1,0 +1,2 @@
+# xnetspam
+$ pkg install php
