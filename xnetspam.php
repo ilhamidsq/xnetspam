@@ -9,10 +9,8 @@ session_start();
 error_reporting(0);
 set_time_limit(0);
 date_default_timezone_set('Asia/Jakarta');
-zm^r^system("clear");
 sleep(1);
 echo "+-+-+-+-+...::[$ xNet Spammer $]::...-+-+-+-+-+-\n";
-echo "<font color="blue">xNet Cyberteam</font>\n";
 sleep(1);
 echo "+-+-+-+-+-+-+-+-+-...::[$ xNet $]::...-+-+-+-+-+-+-+-+-+\n";
 echo "\nNO HP 	(ex:08xxx) : ";
