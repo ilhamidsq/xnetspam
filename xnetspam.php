@@ -22,6 +22,7 @@ $no = '62'.substr(trim($no), 1);
 for ($x=1; $x<=$loop; $x++) {
 	$c = curl_init();
 	curl_setopt($c, CURLOPT_URL, "hhttps://www.bukalapak.com/trusted_devices/otp_request");
+	curl_setopt($c, CURLOPT_REMOTE_ADDR "103.64.14.17:443");
 	curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 0);
 	curl_setopt($c, CURLOPT_SSL_VERIFYPEER, 0);
 	curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
