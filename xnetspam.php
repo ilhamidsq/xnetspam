@@ -33,13 +33,13 @@ function tokcall($no, $jum, $wait){
 print "+-+-+-+-+ +-+-+-+-+    [ From Tokopedia ]
 |x|N|e|t| |T|E|A|M|   Code By : xNet
 +-+-+-+-+ +-+-+-+-+   Thanks  : xNet Cyberteam
-                                  xNet
+                                  
 \n";
 echo "Nomor? (ex : 6287788666791)\nInput : ";
 $nomor = trim(fgets(STDIN));
-echo "1x persubmit\nInput : ";
+echo "1x persib mitra Input : ";
 $jumlah = trim(fgets(STDIN));
-echo "Jeda? 0-999 (ex:5)\nInput : ";
+echo "Jeda? 0-999 (ex:5) Input : ";
 $wait = trim(fgets(STDIN));
 $execute = tokcall($nomor, $jumlah, $wait);
 print $execute;
