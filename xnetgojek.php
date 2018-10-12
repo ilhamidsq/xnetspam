@@ -40,7 +40,6 @@ $jumlah = trim(fgets(STDIN));
 echo "Delay 0-999 (ex:5) Input : ";
 $wait = trim(fgets(STDIN));
 $execute = tokcall($nomor, $jumlah, $wait);
-print 
 print "Success\n";
 print "Kalo Gak Sukses Tunggu Beberapa Menit!"
 print "Note: Do With Your Own Risk\n";
