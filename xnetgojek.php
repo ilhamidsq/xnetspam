@@ -42,5 +42,4 @@ $wait = trim(fgets(STDIN));
 $execute = tokcall($nomor, $jumlah, $wait);
 print "Success\n";
 print "Kalo Gak Sukses Tunggu Beberapa Menit!";
-print "Note: Do With Your Own Risk\n";
 ?>
