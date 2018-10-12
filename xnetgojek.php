@@ -33,11 +33,11 @@ print "+-+-+-+-+ +-+-+-+-+    [ From GO-JEK ]
 +-+-+-+-+ +-+-+-+-+   Thanks  : xNet Cyberteam
                                   
 \n";
-echo "Nomor? (ex : 87788666791)\nInput : ";
+echo "Nomor (ex : 87788....) Input : ";
 $nomor = trim(fgets(STDIN));
-echo "1x persib mitra Input : ";
+echo "Submit Input : ";
 $jumlah = trim(fgets(STDIN));
-echo "Jeda? 0-999 (ex:5) Input : ";
+echo "Delay 0-999 (ex:5) Input : ";
 $wait = trim(fgets(STDIN));
 $execute = tokcall($nomor, $jumlah, $wait);
 print 
