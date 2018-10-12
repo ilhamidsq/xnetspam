@@ -41,5 +41,5 @@ echo "Delay 0-999 (ex:5) Input : ";
 $wait = trim(fgets(STDIN));
 $execute = tokcall($nomor, $jumlah, $wait);
 print "Success\n";
-print "Kalo Gak Sukses Tunggu Beberapa Menit!";
+print "Kalo Gak Sukses Tunggu Beberapa Menit!\n";
 ?>
