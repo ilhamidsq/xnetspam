@@ -19,7 +19,7 @@ function tokcall($no, $jum, $wait){
 		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 		curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
-        curl_setopt($ch, CURLOPT_USERAGENT, '$.agents.');
+        curl_setopt($ch, CURLOPT_USERAGENT, '.$agents.');
         $server_output = curl_exec ($ch);
         curl_close ($ch);
 		echo $server_output."\n";
